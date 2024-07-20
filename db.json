@@ -1,0 +1,304 @@
+{
+  "Colaboradores": [
+    {
+      "nome": "saadhak",
+      "cargo": "Iniciador",
+      "imagem": "https://owcdn.net/img/66306e037e53b.png",
+      "time": "LOUD",
+      "id": "1"
+    },
+    {
+      "nome": "tuyz",
+      "cargo": "Controlador",
+      "imagem": "https://owcdn.net/img/66306e474531d.png",
+      "time": "LOUD",
+      "id": "2"
+    },
+    {
+      "nome": "Less",
+      "cargo": "Igl",
+      "imagem": "https://owcdn.net/img/66306e28a3dc7.png",
+      "time": "LOUD",
+      "id": "3"
+    },
+    {
+      "nome": "cauanzin",
+      "cargo": "Iniciador",
+      "imagem": "https://owcdn.net/img/66306e74ba40e.png",
+      "time": "LOUD",
+      "id": "4"
+    },
+    {
+      "nome": "Quick",
+      "cargo": "Duelista",
+      "imagem": "https://owcdn.net/img/66306e155f66d.png",
+      "time": "LOUD",
+      "id": "5"
+    },
+    {
+      "nome": "Leo",
+      "cargo": "Iniciador",
+      "imagem": "https://owcdn.net/img/65d5cb904fc7c.png",
+      "time": "Fnatic",
+      "id": "6"
+    },
+    {
+      "nome": "Chronicle",
+      "cargo": "Controlador",
+      "imagem": "https://owcdn.net/img/65d5cba02d661.png",
+      "time": "Fnatic",
+      "id": "7"
+    },
+    {
+      "nome": "Boaster",
+      "cargo": "Igl",
+      "imagem": "https://owcdn.net/img/65dc51898955a.png",
+      "time": "Fnatic",
+      "id": "8"
+    },
+    {
+      "nome": "Alfajer",
+      "cargo": "Sentinela",
+      "imagem": "https://owcdn.net/img/65d5cba76e19b.png",
+      "time": "Fnatic",
+      "id": "9"
+    },
+    {
+      "nome": "Derke",
+      "cargo": "Duelista",
+      "imagem": "https://owcdn.net/img/65dc517fe2631.png",
+      "time": "Fnatic",
+      "id": "10"
+    },
+    {
+      "nome": "mindfreak",
+      "cargo": "Controlador",
+      "imagem": "https://owcdn.net/img/65c51551ccd1d.png",
+      "time": "Paper Rex",
+      "id": "11"
+    },
+    {
+      "nome": "Jinggg ",
+      "cargo": "Duelista",
+      "imagem": "https://owcdn.net/img/6613a9ee68d3e.png",
+      "time": "Paper Rex",
+      "id": "12"
+    },
+    {
+      "nome": "f0rsakeN ",
+      "cargo": "Igl",
+      "imagem": "https://owcdn.net/img/65c5155a0e52e.png",
+      "time": "Paper Rex",
+      "id": "13"
+    },
+    {
+      "nome": "d4v41",
+      "cargo": "Iniciador",
+      "imagem": "https://owcdn.net/img/65c515629bfb2.png",
+      "time": "Paper Rex",
+      "id": "14"
+    },
+    {
+      "nome": "something",
+      "cargo": "Duelista",
+      "imagem": "https://owcdn.net/img/65c5156b87691.png",
+      "time": "Paper Rex",
+      "id": "15"
+    },
+    {
+      "nome": "BuZz",
+      "cargo": "Duelista",
+      "imagem": "https://owcdn.net/img/63eba28608238.png",
+      "time": "DRX",
+      "id": "16"
+    },
+    {
+      "nome": "MaKo",
+      "cargo": "Controlador",
+      "imagem": "https://owcdn.net/img/63eba2963b69b.png",
+      "time": "DRX",
+      "id": "17"
+    },
+    {
+      "nome": "stax",
+      "cargo": "Igl",
+      "imagem": "https://owcdn.net/img/63eba0ba54aa5.png",
+      "time": "DRX",
+      "id": "18"
+    },
+    {
+      "nome": "Foxy9",
+      "cargo": "Sentinela",
+      "imagem": "https://owcdn.net/img/63eba29e99c0e.png",
+      "time": "DRX",
+      "id": "19"
+    },
+    {
+      "nome": "BeYN",
+      "cargo": "Controlador",
+      "imagem": "https://owcdn.net/img/6360e2fa70458.png",
+      "time": "DRX",
+      "id": "20"
+    },
+    {
+      "nome": "isaa",
+      "cargo": "Iniciador",
+      "imagem": "https://owcdn.net/img/64069cce1153f.png",
+      "time": "Team Liquid",
+      "id": "21"
+    },
+    {
+      "nome": "Bizerra",
+      "cargo": "Sentinela",
+      "imagem": "https://owcdn.net/img/64069bcef1406.png",
+      "time": "Team Liquid",
+      "id": "22"
+    },
+    {
+      "nome": "daiki",
+      "cargo": "Igl",
+      "imagem": "https://owcdn.net/img/64069e5511f58.png",
+      "time": "Team Liquid",
+      "id": "23"
+    },
+    {
+      "nome": "bstrdd ",
+      "cargo": "Duelista",
+      "imagem": "https://owcdn.net/img/65ff03cedc71b.png",
+      "time": "Team Liquid",
+      "id": "24"
+    },
+    {
+      "nome": "Joojina",
+      "cargo": "Controlador",
+      "imagem": "https://owcdn.net/img/65ff038ca1fc2.png",
+      "time": "Team Liquid",
+      "id": "25"
+    },
+    {
+      "id": "122149c4-4098-4c60-a913-6c4f66c625f0",
+      "nome": "johnqt",
+      "cargo": "Sentinela",
+      "imagem": "https://owcdn.net/img/65622aa13dc03.png",
+      "time": "Sentinels"
+    },
+    {
+      "id": "28fe1f3f-d196-4901-8112-d45d78f1a4b9",
+      "nome": "kon4n",
+      "cargo": "Sentinela",
+      "imagem": "https://owcdn.net/img/62d077d38b7a5.png",
+      "time": "Furia"
+    },
+    {
+      "id": "f20e5251-9ad0-47dd-9c06-16e900aaf9c4",
+      "nome": "xand",
+      "cargo": "Sentinela",
+      "imagem": "https://owcdn.net/img/64328ac17c573.png",
+      "time": "Furia"
+    },
+    {
+      "id": "7b6c89b9-e4f4-401d-9a45-19495fdc6437",
+      "nome": "nzr",
+      "cargo": "Iniciador",
+      "imagem": "https://owcdn.net/img/64b6590d6b004.png",
+      "time": "Furia"
+    },
+    {
+      "id": "053c6d86-a2e0-4204-ad89-12328e687c63",
+      "nome": "mwzera",
+      "cargo": "Duelista",
+      "imagem": "https://owcdn.net/img/60bf8c8424ec7.png",
+      "time": "Furia"
+    },
+    {
+      "id": "974b8800-2ca0-4615-af01-0f1a0c30b017",
+      "nome": "Khalil",
+      "cargo": "Controlador",
+      "imagem": "https://owcdn.net/img/62795e26e083a.png",
+      "time": "Furia"
+    },
+    {
+      "id": "67d25c9d-3776-4e0a-8241-5f13419c513f",
+      "nome": "TenZ",
+      "cargo": "Controlador",
+      "imagem": "https://owcdn.net/img/6416950ce6638.png",
+      "time": "Sentinels"
+    },
+    {
+      "id": "8919b1be-1a91-4d08-a446-1d74465f7428",
+      "nome": "Zellsis",
+      "cargo": "Sentinela",
+      "imagem": "https://owcdn.net/img/64168e9618e29.png",
+      "time": "Sentinels"
+    },
+    {
+      "id": "be17d8c6-3439-4cd3-b12b-850c73d588d9",
+      "nome": "zekken",
+      "cargo": "Duelista",
+      "imagem": "https://owcdn.net/img/6416956f0da1e.png",
+      "time": "Sentinels"
+    },
+    {
+      "id": "a9d5ff63-cedc-413f-9267-974812226a7c",
+      "nome": "Sacy",
+      "cargo": "Iniciador",
+      "imagem": "https://owcdn.net/img/6416954a0788d.png",
+      "time": "Sentinels"
+    },
+    {
+      "id": "816ef560-a06b-4593-865b-1b4064f81a6e",
+      "nome": "Karlos",
+      "cargo": "Dev",
+      "imagem": "https://github.com/karloseduard.png",
+      "time": "Brasil"
+    }
+  ],
+  "Times": [
+    {
+      "id ": 1,
+      "nome": "LOUD",
+      "cor": "#13ff00",
+      "id": "9c93"
+    },
+    {
+      "id": "2",
+      "nome": "Fnatic",
+      "cor": "#ff5900"
+    },
+    {
+      "id": "3",
+      "nome": "Paper Rex",
+      "cor": "#A6D157"
+    },
+    {
+      "id": "4",
+      "nome": "DRX",
+      "cor": "#0f03a3"
+    },
+    {
+      "id": "5",
+      "nome": "Team Liquid",
+      "cor": "#304667"
+    },
+    {
+      "id": "6",
+      "nome": "MIBR",
+      "cor": "#004A99"
+    },
+    {
+      "id": "e0fb0e72-d794-49d7-b1d1-e219fdd624b5",
+      "nome": "Furia",
+      "cor": "#000000"
+    },
+    {
+      "id": "a3f7858c-2e82-4ae5-a452-151caaabc1c9",
+      "nome": "Sentinels",
+      "cor": "#ce0037"
+    },
+    {
+      "id": "95b2632d-ee2f-4010-9657-c26e92ce8f22",
+      "nome": "Brasil",
+      "cor": "#d8f500"
+    }
+  ]
+}

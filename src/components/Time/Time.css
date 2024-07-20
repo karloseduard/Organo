@@ -1,0 +1,23 @@
+.time{
+    background-image: url(../../../public/image/fundo.png);
+    text-align: center;
+    padding: 32px;
+    position: relative;
+}
+.time h3{
+    font-size: 32px;
+    border-bottom: 4px solid;
+    display: inline-block;
+    padding-bottom: 8px;
+}
+.time .colaboradores{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 32px;
+    flex-wrap: wrap;
+}
+.input-color{
+    position: absolute;
+    top: 20px;
+    right: 50px;
+}

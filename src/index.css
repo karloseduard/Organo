@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.busca{
+  width: 400px;
+  height: 50px;
+  border-radius: 12px;
+  font-size: 20px;
+  padding: 0 0 0 10px;
+  border: #00000045 solid 2px;
+  margin: 15px 0;
+}
+.busca-center{
+  display: flex;
+  justify-content: center;
+}
