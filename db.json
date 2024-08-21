@@ -279,38 +279,6 @@
       "imagem": "https://owcdn.net/img/6416954a0788d.png",
       "time": "Sentinels",
       "data": "2024-08-19"
-    },
-    {
-      "id": "816ef560-a06b-4593-865b-1b4064f81a6e",
-      "nome": "Karlos",
-      "cargo": "Dev",
-      "imagem": "https://github.com/karloseduard.png",
-      "time": "Brasil",
-      "data": "2024-08-19"
-    },
-    {
-      "id": "657bd692-857d-435f-94b5-73682fccada0",
-      "nome": "ffff",
-      "cargo": "fff",
-      "imagem": "ffffff",
-      "time": "Brasil",
-      "data": "2024-08-19"
-    },
-    {
-      "id": "768fa1ab-0908-4dac-97d9-3691e476bd23",
-      "nome": "João",
-      "cargo": "sei la",
-      "imagem": "",
-      "time": "Meu nome",
-      "data": "2024-08-19"
-    },
-    {
-      "id": "6124ef2a-51d1-433d-b540-fa920b00d0e3",
-      "nome": "jojo",
-      "cargo": "Alguma coisa",
-      "imagem": "",
-      "time": "Meu nome",
-      "data": "2024-08-19"
     }
   ],
   "Times": [
@@ -354,16 +322,7 @@
       "id": "a3f7858c-2e82-4ae5-a452-151caaabc1c9",
       "nome": "Sentinels",
       "cor": "#ce0037"
-    },
-    {
-      "id": "95b2632d-ee2f-4010-9657-c26e92ce8f22",
-      "nome": "Brasil",
-      "cor": "#d8f500"
-    },
-    {
-      "id": "568f0b78-fea5-4073-9daa-acb2d201ac2f",
-      "nome": "Meu nome",
-      "cor": "#f00000"
     }
+
   ]
 }

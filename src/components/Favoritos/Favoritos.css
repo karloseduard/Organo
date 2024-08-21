@@ -1,0 +1,36 @@
+.BotaoFavorito{
+    background-color: #6278f7;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 16px;
+    padding: 18px;
+    border: none;
+    cursor: pointer;
+    color: white;
+    margin: 8px 0;
+}
+.BotaoFavorito:hover{
+    color: #95ffd4;
+}
+.favoritosContainer{
+    display: flex;
+    flex-direction: column;
+    margin: 45px 50px;
+}
+.favoritosTitulo{
+    text-align: center;
+    color: rgb(41, 41, 41);
+    font-size: 22px;
+    font-weight: 400;
+}
+.favoritosTitulo h2{
+    margin: 0;
+}
+.BotaoFavoritoContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 24px;
+    margin: 8px 0;
+}
+  

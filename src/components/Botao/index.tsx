@@ -3,6 +3,7 @@ import "../Botao/Botao.css"
 
 interface BotaoProps {
     children: ReactElement | string
+    
 }
 
 export default function Botao (props: BotaoProps){
