@@ -5,7 +5,7 @@ import Time from './components/Time';
 import { IColaborador } from './components/Compartilhado/Interfaces/IColaborador';
 import { ITimes } from './components/Compartilhado/Interfaces/ITimes';
 import Rodape from './components/Rodape';
-import Favoritos from './components/Favoritos';
+import Filtros from './components/Filtros';
 
 
 
@@ -106,9 +106,9 @@ function App() {
         <input className='busca' placeholder='Pesquise o jogador ' onChange={evento => setBusca(evento.target.value)} />
       </div>
       {
-        times.length !== 0 &&<Favoritos
+        times.length !== 0 &&<Filtros
         onClick={evento => setFiltroBusca((evento.target as HTMLInputElement).value)} 
-        times={times}></Favoritos> 
+        times={times}></Filtros> 
       }
 
       {times.map(time => <Time
