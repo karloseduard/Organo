@@ -2,6 +2,9 @@ import hexToRgba from 'hex-to-rgba';
 import "../Time/Time.css"
 import { IColaborador } from '../Compartilhado/Interfaces/IColaborador';
 import Colaborador from '../Colaborador';
+import { ReactNode } from 'react';
+
+
 
 interface TimeProps{
     mudarCor: (valor: string,id:string ) => void
@@ -13,7 +16,7 @@ interface TimeProps{
     colaboradores:IColaborador[]
 }
 
-export default function Time(props: TimeProps) {
+export default function Time(props: TimeProps):any| ReactNode{
     return (
         //dumb components
         //renderisação condicional 
@@ -38,7 +41,7 @@ export default function Time(props: TimeProps) {
 
                         <Colaborador
                             corDeFundo={props.cor}
-                            key={colaborador.nome}
+                            key={colaborador.id}
                             nome={colaborador.nome}
                             cargo={colaborador.cargo}
                             imagem={colaborador.imagem}
