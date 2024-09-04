@@ -52,7 +52,7 @@ export default function Formulario({ aoColaboradorCadastrado,times,cadastrarTime
             id,
             data
         }
-    fetch("http://localhost:8080/Colaboradores",
+    fetch("https://my-json-server.typicode.com/karloseduard/Organo-api/Colaboradores",
     {
     method: 'POST',
     headers: {

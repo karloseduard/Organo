@@ -16,7 +16,7 @@ export default function Filtros({ onClick, times }: FiltrosProps) {
                 <button className="BotaoFiltros" onClick={onClick} value={''}>Todos</button>
                 {times.map((time) => {
                     return (
-                        <button className="BotaoFiltros" onClick={onClick} value={time.nome}>{time.nome}</button>
+                        <button key={time.id} className="BotaoFiltros" onClick={onClick} value={time.nome}>{time.nome}</button>
                     )
                 })}
             </div>

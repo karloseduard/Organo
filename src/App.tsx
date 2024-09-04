@@ -44,7 +44,7 @@ function App() {
       id: crypto.randomUUID()
     }
     setTimes([...times, { ...postData }])
-    fetch("http://localhost:8080/Times",
+    fetch("https://my-json-server.typicode.com/karloseduard/Organo-api/Times",
       {
         method: 'POST',
         headers: {
@@ -62,32 +62,32 @@ function App() {
   }
 
   useEffect(() => {
-    fetch('http://localhost:8080/Colaboradores')
+    fetch('https://my-json-server.typicode.com/karloseduard/Organo-api/Colaboradores')
       .then(resposta => resposta.json())
       .then(dados => setColaboradores(dados))
   }, [])
 
   useEffect(() => {
-    fetch('http://localhost:8080/Times')
+    fetch('https://my-json-server.typicode.com/karloseduard/Organo-api/Times')
       .then(resposta => resposta.json())
       .then(dados => setTimes(dados))
   }, [])
 
   useEffect(() => {
-    busca !== "" && busca.length > 2 ? fetch(`http://localhost:8080/Colaboradores?nome=${busca}`)
+    busca !== "" && busca.length > 2 ? fetch(`https://my-json-server.typicode.com/karloseduard/Organo-api/Colaboradores?nome=${busca}`)
       .then(resposta => resposta.json())
       .then(dados => { setColaboradores(dados) })
-      : fetch(`http://localhost:8080/Colaboradores?nome=`)
+      : fetch(`https://my-json-server.typicode.com/karloseduard/Organo-api/Colaboradores?nome=`)
         .then(resposta => resposta.json())
         .then(dados => { setColaboradores(dados) })
 
   }, [busca])
 
   useEffect(() => {
-    filtroBusca !== "" ? fetch(`http://localhost:8080/Colaboradores?time=${filtroBusca}`)
+    filtroBusca !== "" ? fetch(`https://my-json-server.typicode.com/karloseduard/Organo-api/Colaboradores?time=${filtroBusca}`)
       .then(resposta => resposta.json())
       .then(dados => { setColaboradores(dados) })
-      : fetch(`http://localhost:8080/Colaboradores?time=`)
+      : fetch(`https://my-json-server.typicode.com/karloseduard/Organo-api/Colaboradores`)
         .then(resposta => resposta.json())
         .then(dados => { setColaboradores(dados) })
 
@@ -108,7 +108,7 @@ function App() {
       {
         times.length !== 0 &&<Filtros
         onClick={evento => setFiltroBusca((evento.target as HTMLInputElement).value)} 
-        times={times}></Filtros> 
+        times={times}/> 
       }
 
       {times.map(time => <Time
